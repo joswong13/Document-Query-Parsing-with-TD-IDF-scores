@@ -53,6 +53,9 @@ document, then the third list will have multiple values indicating the position 
 
 abacus - [[[216], [1], [7]]]
 abstract - [[[253], [1], [14]], [[1323], [3], [79, 130, 134]], .....]
+.
+.
+.
 
 
 
